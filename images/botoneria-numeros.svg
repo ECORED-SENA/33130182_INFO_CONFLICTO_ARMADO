@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="113.533px" height="112.122px" viewBox="0 0 113.533 112.122" enable-background="new 0 0 113.533 112.122"
+	 xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<defs>
+						<rect id="SVGID_1_" x="37.653" y="45.774" width="40.38" height="31.348"/>
+					</defs>
+					<clipPath id="SVGID_2_">
+						<use xlink:href="#SVGID_1_"  overflow="visible"/>
+					</clipPath>
+					<polygon clip-path="url(#SVGID_2_)" fill="#518AA3" points="78.03,77.122 46.653,77.122 37.653,45.774 69.03,45.774 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<defs>
+						<rect id="SVGID_3_" x="2.143" y="45.774" width="40.381" height="31.348"/>
+					</defs>
+					<clipPath id="SVGID_4_">
+						<use xlink:href="#SVGID_3_"  overflow="visible"/>
+					</clipPath>
+					<polygon clip-path="url(#SVGID_4_)" fill="#518AA3" points="42.528,77.122 11.149,77.122 2.149,45.774 33.528,45.774 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<path fill="#FFFFFF" d="M22.618,53.874h1.776v15.117h-1.776V55.537c-0.341,0.226-0.682,0.417-1.023,0.571
+		c-0.341,0.156-0.691,0.283-1.052,0.382v-1.472c0.407-0.148,0.784-0.318,1.13-0.51C22.019,54.319,22.334,54.106,22.618,53.874z"/>
+</g>
+<g>
+	<circle fill="#FFFFFF" cx="53.606" cy="55.421" r="1.226"/>
+	<circle fill="#FFFFFF" cx="56.584" cy="55.422" r="1.227"/>
+	<circle fill="#FFFFFF" cx="59.562" cy="55.422" r="1.227"/>
+	<circle fill="#FFFFFF" cx="56.584" cy="58.434" r="1.227"/>
+	<circle fill="#FFFFFF" cx="59.562" cy="58.434" r="1.227"/>
+	<circle fill="#FFFFFF" cx="62.541" cy="58.434" r="1.226"/>
+	<circle fill="#FFFFFF" cx="59.562" cy="61.448" r="1.227"/>
+	<circle fill="#FFFFFF" cx="62.541" cy="61.448" r="1.227"/>
+	<circle fill="#FFFFFF" cx="65.52" cy="61.448" r="1.227"/>
+	<circle fill="#FFFFFF" cx="56.584" cy="64.461" r="1.227"/>
+	<circle fill="#FFFFFF" cx="59.562" cy="64.461" r="1.227"/>
+	<circle fill="#FFFFFF" cx="62.541" cy="64.462" r="1.226"/>
+	<circle fill="#FFFFFF" cx="53.606" cy="67.474" r="1.226"/>
+	<circle fill="#FFFFFF" cx="56.584" cy="67.474" r="1.227"/>
+	<circle fill="#FFFFFF" cx="59.562" cy="67.474" r="1.227"/>
+</g>
+</svg>
